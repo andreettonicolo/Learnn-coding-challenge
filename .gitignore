@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+
+
+# Node.js dependencies
+Carta, forbice e sasso/node_modules/
+node_modules/
+
+
+
+
